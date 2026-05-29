@@ -1,174 +1,227 @@
-# 🚀 Professional GitHub Profile README
+<div align="center">
 
-```md
-<h1 align="center">Hi 👋, I'm UJAWAL PANDA</h1>
-<h3 align="center">B.Tech CSE (AI & ML) Student | AI/ML Enthusiast | Full Stack Learner</h3>
+# UJAWAL PANDA
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Systems+%26+Privacy+Tech+Explorer;Always+Building+%26+Learning" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineer;Systems+%26+Backend+Explorer;Building+Scalable+Solutions;Fintech+%7C+LegalTech+%7C+Automation" />
+
+</div>
 
 ---
 
-## 🌌 About Me
+<div align="center">
 
-- 🎓 B.Tech CSE (AI & ML) Student at **SRM University AP**
-- 🤖 Interested in **AI/ML, Systems Engineering, Privacy Tech & Full Stack Development**
-- 🌱 Currently learning **Advanced ML, System Design & App Development**
-- 🚀 Building projects that solve real-world problems
-- ⚡ Exploring scalable systems and intelligent applications
-- 📫 Reach me at: **ujawalpanda.02@gmail.com**
+### B.Tech CSE (AI & ML) @ SRM University AP
 
----
+Exploring intelligent systems, scalable architectures, privacy-first technologies, and real-world automation.
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="YOUR_LINKEDIN" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
-<a href="YOUR_INSTAGRAM" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" /></a>
-<a href="YOUR_TWITTER" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="45" /></a>
-<a href="mailto:YOUR_EMAIL"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
-</p>
+</div>
 
 ---
 
-# 💻 Tech Stack
+# 🌌 About Me
+
+```yaml
+Name: Ujawal Panda
+Location: Hyderabad, India
+Education: B.Tech CSE (AI & ML)
+University: SRM University AP
+Interests:
+  - AI/ML
+  - Backend Engineering
+  - Distributed Systems
+  - Fintech Architecture
+  - Privacy Tech
+Current Focus:
+  - Building impactful products
+  - Learning scalable systems
+  - AI-powered automation
+```
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
 
 ## Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts" />
-</p>
 
-## Frameworks & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,mysql" />
 
-## Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
-</p>
+## Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,firebase,git,github,vscode,figma,linux" />
+
+## AI / Data
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **VAKIL_SETU** | An AI powered   | React, Firebase |
-| **FORTEX FINAL** | Short project description | Python, ML |
-| **Project 3** | Short project description | Next.js, TypeScript |
-| **Project 4** | Short project description | JavaScript, APIs |
+<table>
+<tr>
+<td width="33%">
+
+## 💳 SRMPAY
+
+Campus fintech ecosystem designed to simplify and secure student transactions.
+
+### Highlights
+- Secure transaction flow
+- Reduced payment friction
+- Venture summit finalist
+- Fintech architecture planning
+
+### Stack
+`Fintech` `UI/UX` `System Design`
+
+</td>
+
+<td width="33%">
+
+## ⚖️ VAKIL SETU
+
+Legal-tech platform focused on simplifying legal accessibility for citizens.
+
+### Highlights
+- Regional Rank 2 @ VIT Ideathon
+- Workflow automation
+- User-centric legal assistance
+- Rapid prototyping
+
+### Stack
+`Automation` `LegalTech` `AI`
+
+</td>
+
+<td width="33%">
+
+## 🌐 EZLO
+
+Hyperlocal service aggregation platform built under the theme “Life Made Easy”.
+
+### Highlights
+- Led team of 11
+- Unified service ecosystem
+- Modern web architecture
+- Product strategy & execution
+
+### Stack
+`Web Platform` `Leadership` `Full Stack`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180em" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UjawalPanda-02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UjawalPanda-02&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UjawalPanda-02&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
 
----
+![Snake animation](https://github.com/UjawalPanda-02/UjawalPanda-02/blob/output/github-contribution-grid-snake-dark.svg)
 
-# 🔥 Current Focus
-
-- Building impactful AI/ML projects
-- Learning scalable backend systems
-- Improving DSA & development skills
-- Preparing for internships & tech opportunities
+</div>
 
 ---
 
-# ✨ Quote
+# 🧠 Most Used Languages
 
-> "Consistency compounds faster than motivation."
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjawalPanda-02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-```
+</div>
 
 ---
 
-# 📌 How To Use
+# 🏆 Achievements
 
-1. Create a repository with your GitHub username.
-2. Example:
-
-   * Username: `john123`
-   * Repository name: `john123`
-3. Create a `README.md` file.
-4. Copy the above code.
-5. Replace:
-
-   * `YOUR_USERNAME`
-   * `YOUR_NAME`
-   * social links
-   * email
-   * projects
-6. Commit changes.
-
-Your GitHub profile will automatically show this README.
+- 🥈 2nd Prize — Global Venture Summit
+- 🏅 Regional Rank 2 — VIT Ideathon
+- 🏆 Best in Class — Code Day Hackathon
+- 🥇 Gold Medalist — Mathematics
+- 📜 National Olympiad Rank Holder
 
 ---
 
-# 🔥 Recommended Improvements
+# 🎵 Spotify Playing
 
-## Add These Repositories
+<div align="center">
 
-* Best AI/ML Project
-* Full Stack Project
-* Firebase/App Project
-* DSA Repository
-* Portfolio Website
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-## Make Your Profile Stronger
-
-* Add screenshots in repos
-* Write proper documentation
-* Pin your best 4–6 repositories
-* Keep contribution streak active
-* Use clean repository names
+</div>
 
 ---
 
-# 🎨 Optional Enhancements
+# 💻 LeetCode Stats
 
-## Cool Banner Maker
+<div align="center">
 
-* [https://leviarista.github.io/github-profile-header-generator/](https://leviarista.github.io/github-profile-header-generator/)
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" />
 
-## Skill Icons
+</div>
 
-* [https://skillicons.dev/](https://skillicons.dev/)
+---
 
-## Badges
+# 🌐 Connect With Me
 
-* [https://shields.io/](https://shields.io/)
+<div align="center">
 
-## GitHub Stats
+<a href="https://www.linkedin.com/in/ujawal-panda-2305b2315">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
 
-* [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://instagram.com/panda_protocol.py">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+
+<a href="mailto:ujawalpanda.02@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=UjawalPanda-02&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+## “Building systems that solve real-world problems.”
+
+</div>
