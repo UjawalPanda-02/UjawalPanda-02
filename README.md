@@ -133,33 +133,25 @@ B.Tech in Computer Science and Engineering — Artificial Intelligence and Machi
 
 ## GitHub Activity
 
+## GitHub Activity
+
 <div align="center">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=UjawalPanda-02&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=UjawalPanda-02&show_icons=true&hide_border=true&rank_icon=github&theme=default"
-    media="(prefers-color-scheme: light)"
-  />
-  <img height="165" alt="Ujawal Panda GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=UjawalPanda-02&show_icons=true&hide_border=true&rank_icon=github" />
-</picture>
+<img
+  width="49%"
+  src="https://github-stats-extended.vercel.app/api?username=UjawalPanda-02&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+  alt="Ujawal Panda GitHub statistics"
+/>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UjawalPanda-02&layout=compact&hide_border=true&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UjawalPanda-02&layout=compact&hide_border=true&theme=default"
-    media="(prefers-color-scheme: light)"
-  />
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjawalPanda-02&layout=compact&hide_border=true" />
-</picture>
+<img
+  width="41%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=UjawalPanda-02&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+  alt="Ujawal Panda most used programming languages"
+/>
 
 </div>
+
+### Contribution Activity
 
 ### Contribution Activity
 
@@ -173,14 +165,10 @@ B.Tech in Computer Science and Engineering — Artificial Intelligence and Machi
     srcset="https://raw.githubusercontent.com/UjawalPanda-02/UjawalPanda-02/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="GitHub contribution snake animation"
+    alt="Ujawal Panda GitHub contribution snake"
     src="https://raw.githubusercontent.com/UjawalPanda-02/UjawalPanda-02/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
----
-
-<div align="center">
 
 ### Open to internships, hackathons, research opportunities, and meaningful product collaborations
 
