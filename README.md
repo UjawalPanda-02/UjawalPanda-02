@@ -1,116 +1,86 @@
+<!--
+  Professional GitHub profile README for:
+  https://github.com/UjawalPanda-02
+-->
+
 <div align="center">
 
-# UJAWAL PANDA
+<img src="./assets/ujawal-panda-profile.png" width="180" alt="Ujawal Panda profile photograph" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineer;Systems+%26+Backend+Explorer;Building+Scalable+Solutions;Fintech+%7C+LegalTech+%7C+Automation" />
+# Ujawal Panda
+
+### AI & ML Engineering Student · Product Builder · Fintech & Backend Enthusiast
+
+Building practical software products around intelligent automation, secure workflows, and scalable systems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ujawal%20Panda-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujawal-panda-2305b2315)
+[![Email](https://img.shields.io/badge/Email-ujawalpanda.02%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ujawalpanda.02@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-1F2937?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./assets/Ujawal_Panda_Resume.pdf)
+![Profile Views](https://komarev.com/ghpvc/?username=UjawalPanda-02&style=flat-square&label=Profile+views)
 
 </div>
 
 ---
 
-<div align="center">
+## About Me
 
-### B.Tech CSE (AI & ML) @ SRM University AP
+I am a **B.Tech Computer Science and Engineering student specialising in Artificial Intelligence and Machine Learning at SRM University AP**. I enjoy converting real-world problems into structured products, prototypes, and secure software workflows.
 
-Exploring intelligent systems, scalable architectures, privacy-first technologies, and real-world automation.
-
-</div>
-
----
-
-# 🌌 About Me
-
-```yaml
-Name: Ujawal Panda
-Location: Hyderabad, India
-Education: B.Tech CSE (AI & ML)
-University: SRM University AP
-Interests:
-  - AI/ML
-  - Backend Engineering
-  - Distributed Systems
-  - Fintech Architecture
-  - Privacy Tech
-Current Focus:
-  - Building impactful products
-  - Learning scalable systems
-  - AI-powered automation
-```
+- Building **SRM Pay**, a campus fintech MVP for controlled emergency-credit transactions during poor network conditions
+- Exploring **AI/ML, backend engineering, distributed systems, fintech architecture, and privacy-first technology**
+- Comfortable with **Python, C, data analysis, web technologies, relational databases, Git, and GitHub**
+- Interested in **software engineering, AI/ML internships, hackathons, research, and product-focused collaboration**
+- Based in **Hyderabad, Telangana, India**
 
 ---
 
-# ⚡ Tech Stack
-
-<div align="center">
-
-## Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,mysql" />
-
-## Frameworks & Tools
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,firebase,git,github,vscode,figma,linux" />
-
-## AI / Data
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%" valign="top">
 
-## 💳 SRMPAY
+### [SRM Pay](https://github.com/UjawalPanda-02/SRM-Pay)
 
-Campus fintech ecosystem designed to simplify and secure student transactions.
+Campus fintech and emergency-credit MVP designed to help approved students complete essential purchases when network-dependent payments are unreliable.
 
-### Highlights
-- Secure transaction flow
-- Reduced payment friction
-- Venture summit finalist
-- Fintech architecture planning
+**My focus:** product architecture, secure transaction workflows, role-based access, offline resilience, and admin/vendor/student experiences.
 
-### Stack
-`Fintech` `UI/UX` `System Design`
+`Next.js` `TypeScript` `Tailwind CSS` `Firebase Auth` `Firestore` `Cloud Functions`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="33%">
+### [Vakil Setu](https://github.com/UjawalPanda-02/vakil_setu)
 
-## ⚖️ VAKIL SETU
+Legal-tech platform created to simplify access to legal guidance through user-centred workflow automation and rapid prototyping.
 
-Legal-tech platform focused on simplifying legal accessibility for citizens.
+**Recognition:** Regional Rank 2 at the VIT Ideathon.
 
-### Highlights
-- Regional Rank 2 @ VIT Ideathon
-- Workflow automation
-- User-centric legal assistance
-- Rapid prototyping
-
-### Stack
-`Automation` `LegalTech` `AI`
+`TypeScript` `LegalTech` `Workflow Automation` `Product Design`
 
 </td>
+</tr>
 
-<td width="33%">
+<tr>
+<td width="50%" valign="top">
 
-## 🌐 EZLO
+### [CodeDay Hackathon](https://github.com/UjawalPanda-02/CodeDay-Hackathon)
 
-Hyperlocal service aggregation platform built under the theme “Life Made Easy”.
+A functional web prototype built under strict hackathon time constraints through rapid planning, implementation, and team collaboration.
 
-### Highlights
-- Led team of 11
-- Unified service ecosystem
-- Modern web architecture
-- Product strategy & execution
+**Recognition:** Best in Class — Web Development.
 
-### Stack
-`Web Platform` `Leadership` `Full Stack`
+`HTML5` `CSS3` `Rapid Prototyping` `Team Collaboration`
+
+</td>
+<td width="50%" valign="top">
+
+### [Career & Education Advisor](https://github.com/UjawalPanda-02/One-Stop-Personalized-Career-Education-Advisor)
+
+A personalised platform intended to help users explore education and career pathways through a unified web experience.
+
+`JavaScript` `Web Development` `User Experience` `Problem Solving`
 
 </td>
 </tr>
@@ -118,110 +88,104 @@ Hyperlocal service aggregation platform built under the theme “Life Made Easy�
 
 ---
 
-# 📊 GitHub Analytics
+## Technical Toolkit
+
+### Programming and Web
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Data, Backend and Tools
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## Achievements
+
+- **2nd Prize — Global Venture Summit:** SRM Pay campus payment ecosystem
+- **Regional Rank 2 — VIT Ideathon:** Vakil Setu legal-tech platform
+- **Best in Class — Web Development:** CodeDay Hackathon
+- **Gold Medalist in Mathematics:** All-India School Mathematics Teacher Association
+- **National-level Olympiad rank holder** with a Certificate of Excellence
+
+---
+
+## Education
+
+**SRM University AP**  
+B.Tech in Computer Science and Engineering — Artificial Intelligence and Machine Learning  
+2025–2029 · Semester 1 SGPA: **9.39/10**
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UjawalPanda-02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=UjawalPanda-02&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=UjawalPanda-02&show_icons=true&hide_border=true&rank_icon=github&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img height="165" alt="Ujawal Panda GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=UjawalPanda-02&show_icons=true&hide_border=true&rank_icon=github" />
+</picture>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UjawalPanda-02&theme=tokyonight&hide_border=true&background=0D1117"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UjawalPanda-02&layout=compact&hide_border=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UjawalPanda-02&layout=compact&hide_border=true&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjawalPanda-02&layout=compact&hide_border=true" />
+</picture>
 
 </div>
 
----
+### Contribution Activity
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UjawalPanda-02&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/UjawalPanda-02/UjawalPanda-02/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# 🧠 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjawalPanda-02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-- 🥈 2nd Prize — Global Venture Summit
-- 🏅 Regional Rank 2 — VIT Ideathon
-- 🏆 Best in Class — Code Day Hackathon
-- 🥇 Gold Medalist — Mathematics
-- 📜 National Olympiad Rank Holder
-
----
-
-# 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
----
-
-# 💻 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" />
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ujawal-panda-2305b2315">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="https://instagram.com/panda_protocol.py">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-</a>
-
-<a href="mailto:ujawalpanda.02@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=UjawalPanda-02&color=blueviolet&style=for-the-badge)
-
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/UjawalPanda-02/UjawalPanda-02/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/UjawalPanda-02/UjawalPanda-02/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/UjawalPanda-02/UjawalPanda-02/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
 <div align="center">
 
-## “Building systems that solve real-world problems.”
+### Open to internships, hackathons, research opportunities, and meaningful product collaborations
+
+[LinkedIn](https://www.linkedin.com/in/ujawal-panda-2305b2315) ·
+[Email](mailto:ujawalpanda.02@gmail.com) ·
+[Repositories](https://github.com/UjawalPanda-02?tab=repositories)
 
 </div>
